@@ -111,3 +111,38 @@ Penjelasan :
 <img width="450" alt="image" src="https://user-images.githubusercontent.com/114345988/208029401-0525b5d5-5648-4657-b440-2af5b3778b39.png">
 nilai ROC dengan handling imbalance class Tomek Link dan XG Boost lebih baik
 
+## Presenting Machine Learning Products to the Business Users
+- Grafik
+<img width="700" alt="image" src="https://user-images.githubusercontent.com/114345988/208031019-458098dd-40d5-4ca3-a4c9-439e60e2e9e7.png">
+- Usia karyawan saat direkrut 20-30 tahun, merupakan usia dimana tingkat resign yang tinggi. Sedangkan usia 30-40 tahun, merupakan usia dengan tingkat resign rendah
+- Berdasarkan lama bekerja, karyawan yang sudah bekerja lebih dari10-12 tahun cenderung memiliki tingkat resign yang lebih tinggi dari pada < 10 tahun, dan > 12 tahun. 
+
+- Grafik
+<img width="700" alt="image" src="https://user-images.githubusercontent.com/114345988/208031062-10701a98-4ca8-4a57-a2e0-09f9442c8618.png">
+- Jika dilihat dari Skor Kepuasan Pegawai dalam bekerja, Karyawan dengan skor rendah, cenderung akan resign daripada karyawan dengan skor kepuasannya tinggi.
+- Berbanding terbalik dengan Performance Pegawai, Pegawai dengan Performance rendah cenderung tidak resign, dan Pegawai dengan performance baik justru cenderung akan resign.
+
+- Grafik
+<img width="700" alt="image" src="https://user-images.githubusercontent.com/114345988/208031101-5d339481-802a-4409-a15f-9c1ef4ad7de6.png">
+- Jika dilihat dari Plaftorm Rekuriter Karyawan, Platform yang berasal dari  Online Web application, Other, dan Website memiiliki tingkat resign yang tinggi (dilihat dari jumlah frekuensinya yang sedikit)
+- Berdasarkan tingkat Pendidikan, semakin tinggi tingkat Pendidikan, semakin tinggi tingkat kemungkinan untuk resignnya. Untuk tingkat Pendidikan Sarjana, tingkat resign cendrung rendah dibandingkan dengan tingkat Pendidikan Doktoral. 
+
+-Grafik
+
+<img width="450" alt="image" src="https://user-images.githubusercontent.com/114345988/208030832-0db2d221-7568-41ea-be35-038e77a77c5e.png">
+- Berdasarkan tingkat resign, variabel yang berpengaruh adalah usia saat hiring, jumlah ketidak hadiran, dan platform hiring.
+
+## Kesimpulan
+Beberapa rekomendasi yang perlu dipertimbangkan :
+- Usia hiring (perlu melakukan recruitment pada usia karyawan antara 30-40 tahun).
+- Jika perlu merekrut usia 20-30 tahun, perlu memperhatikan lingkungan kerja, karena alasan resign yang terbesar adalah lingkungan kerja yang tidak nyaman. Pihak managemen perlu melihat Kembali penyebab ketidaknyamanannya lingkungan kerja. 
+- Menghindari rekruitmen via website langsung. Perlu melakukan recruitment via LinkedIn, dan Indeed. Karena para job seeker lebih menyukai apply via sarana tersebut. 
+
+
+
+
+
+
+
+
+
